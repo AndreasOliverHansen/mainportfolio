@@ -2,10 +2,37 @@
 /* CSS Document */
 
 body {
-	border: #3AAFA9;
+	border: #3AAFA9 5px solid;
+	background: #7C8992;
+	padding: 5%;
+}
+.container {
+	background: #5D7B93;
 }
 
-p {
+.topnav {
+	color: white;
+	text-align: center;
+
+}
+h3 {
+	color: white;
+	padding-top: 10%;
+
+}
+
+#standinlogo {
+	width: 120px;
+	height: auto;
+}
+.andreastitler {
+	color: white;
+	text-align: left;
+	padding-top: 10%;
+	padding-right: 50%;
+	line-height: 1em;
+	margin-left: 22%;
+}
+#name {
 	
-	color: blue;
 }
