@@ -11,7 +11,7 @@ body {
 }
 .container {
 	background: -webkit-linear-gradient(to top right,#3AAFA9, #FEFFFF);
-	background: linear-gradient(to top right, lightblue, #3AAFA9, lightblue);  
+	background: linear-gradient(to top right, #46344E, #46344E, #5A5560);  
 	border: solid black; 
 	
 }
@@ -28,7 +28,7 @@ body {
 #myprojects {
 float: right;
 	padding: 2% 4%;
-	color: blue;
+	color: #FAED26;
 	
 }
 .name {
@@ -50,15 +50,22 @@ text-align: center;
 	align-content: center;
 	padding-left: 34%;
 	color: white;
+	line-height: 1.5em;
+	
+	
 }
 .righttext {
 	color: white;
 	padding-right: 30%;
-	padding-left: 5%
+	padding-left: 5%;
+		line-height: 1.5em;
 }
 	
 .footer img {
 
+}
+.icons {
+	padding-top: 7%;
 }
 .icons img {
 
@@ -68,14 +75,39 @@ text-align: center;
 	display: block;
 }
 
-#facebook {
+.facebook {
 
 }
-#github {
-   
+#facebookpic {
+	margin-left: 50%;
+}
+.facebooktext {
+	margin-left: 51%;
+	color: #FAED26;
+	font-size: 1.3em;
+}
+.github {
+  
+	
+}
+#githubpic {
+	margin-left: 28%;
  
 }
-#twitter {
 
+.githubtext {
+	margin-left: 22%;
+	color: #FAED26;
+	font-size: 1.3em;
+}
 
+.twitter {
+
+}
+#twitterpic {
+	
+}
+.twittertext {
+	color: #FAED26;
+	font-size: 1.3em;
 }
