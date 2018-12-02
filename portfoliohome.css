@@ -4,20 +4,20 @@
 body {
 	border: #3AAFA9 5px solid;
 	background: #7C8992;
-	padding: 5%;
+	padding: 2%;
 }
 .container {
-	background: #5D7B93;
+		background: -webkit-linear-gradient(to top right,#3AAFA9, #FEFFFF);
+	background: linear-gradient(to top right, #3AAFA9, #FEFFFF);  
+	border: solid black;
 }
 
 .topnav {
 	color: white;
-	text-align: center;
 
 }
 h3 {
-	color: white;
-	padding-top: 10%;
+	color:#FEFFFF;
 
 }
 
@@ -25,14 +25,36 @@ h3 {
 	width: 120px;
 	height: auto;
 }
+a {
+	color: black;
+
+}
+.myworklink {
+	font-size: 1.3em;
+	float: right;
+	
+}
 .andreastitler {
 	color: white;
-	text-align: left;
-	padding-top: 10%;
-	padding-right: 50%;
+	padding-top: 5%;
 	line-height: 1em;
-	margin-left: 22%;
+  text-align: center;
+	font-size: 1.3em;
+}
+h2 {
+font-size: 1em;
+}
+p {
+	line-height: 0.5em;
 }
 #name {
+	
+}
+.lowericons {
+	width: 185px;
+	height: auto;
+}
+img {
+	
 	
 }

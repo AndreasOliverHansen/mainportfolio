@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	background: #E85558;
+
+}
+.container {
+	background: -webkit-linear-gradient(to top right,#3AAFA9, #FEFFFF);
+	background: linear-gradient(to top right, lightblue, #3AAFA9, lightblue);  
+	border: solid black; 
+	
+}
+	
+.logo {
+	height: auto;
+	width: 100px;
+	padding: 2%;
+	
+}
+.logo img {
+	
+}
+#myprojects {
+float: right;
+	padding: 2% 4%;
+	color: blue;
+	
+}
+.name {
+text-align: center;
+	color: white;
+	font-size: 4.5em;
+	
+	
+}
+.title {
+	text-align: center;
+	color: white;
+}
+.about {
+	
+}
+
+.lefttext {
+	align-content: center;
+	padding-left: 34%;
+	color: white;
+}
+.righttext {
+	color: white;
+	padding-right: 30%;
+	padding-left: 5%
+}
+	
+.footer img {
+
+}
+.icons img {
+
+		height: auto;
+	width: 150px;
+	
+	display: block;
+}
+
+#facebook {
+
+}
+#github {
+   
+ 
+}
+#twitter {
+
+
+}
