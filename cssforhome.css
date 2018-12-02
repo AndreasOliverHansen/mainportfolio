@@ -69,7 +69,7 @@ text-align: center;
 
 }
 .icons {
-	padding-top: 5.5%;
+	padding-top: 3%;
 }
 .icons img {
 
@@ -122,4 +122,8 @@ span {
 #o, img {
 	width: 65px;
 	height: auto;
+}
+.emailfooter {
+	text-align: center;
+	color: white;
 }
