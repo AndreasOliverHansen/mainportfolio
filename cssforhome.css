@@ -6,7 +6,7 @@
 }
 
 body {
-	background: #E85558;
+	background: #D7D7D7;
 
 }
 .container {
@@ -31,6 +31,10 @@ float: right;
 	color: #FAED26;
 	
 }
+a {
+	color: #FAED26;
+}
+
 .name {
 text-align: center;
 	color: white;
@@ -65,7 +69,7 @@ text-align: center;
 
 }
 .icons {
-	padding-top: 7%;
+	padding-top: 5.5%;
 }
 .icons img {
 
@@ -110,4 +114,12 @@ text-align: center;
 .twittertext {
 	color: #FAED26;
 	font-size: 1.3em;
+}
+span {
+	color: #FAED26;
+	
+}
+#o, img {
+	width: 65px;
+	height: auto;
 }
