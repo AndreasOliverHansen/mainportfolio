@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	background: #D7D7D7;
+
+}
+.container {
+	/*background: -webkit-linear-gradient(to top right,#3AAFA9, #FEFFFF);
+	background: linear-gradient(to top right, #46344E, #46344E, #5A5560);  /**/
+	background: linear-gradient(to top right, #F6C026, #872642, #A0D3F9);
+	border: solid black; 
+	
+}
+	
+.logo {
+	height: auto;
+	width: 100px;
+	padding: 2%;
+	
+}
+.logo img {
+	
+}
+#myprojects {
+float: right;
+	padding: 2% 4%;
+	color: #FAED26;
+	
+}
+a {
+	color: #FAED26;
+}
+
+.name {
+text-align: center;
+	color: white;
+	font-size: 4.5em;
+	
+	
+}
+.title {
+	text-align: center;
+	color: white;
+}
+.about {
+	
+}
+
+.lefttext {
+	align-content: center;
+	padding-left: 34%;
+	color: white;
+	line-height: 1.5em;
+	
+	
+}
+.righttext {
+	color: white;
+	padding-right: 30%;
+	padding-left: 5%;
+		line-height: 1.5em;
+}
+	
+.footer img {
+
+}
+.icons {
+	padding-top: 3%;
+}
+.icons img {
+
+		height: auto;
+	width: 150px;
+	
+	display: block;
+}
+
+.facebook {
+
+}
+#facebookpic {
+	margin-left: 50%;
+}
+.facebooktext {
+	margin-left: 51%;
+	color: #FAED26;
+	font-size: 1.3em;
+}
+.github {
+  
+	
+}
+#githubpic {
+	margin-left: 28%;
+ 
+}
+
+.githubtext {
+	margin-left: 22%;
+	color: #FAED26;
+	font-size: 1.3em;
+}
+
+.twitter {
+
+}
+#twitterpic {
+	
+}
+.twittertext {
+	color: #FAED26;
+	font-size: 1.3em;
+}
+span {
+	color: #FAED26;
+	
+}
+#o, img {
+	width: 65px;
+	height: auto;
+}
+.emailfooter {
+	text-align: center;
+	color: white;
+}

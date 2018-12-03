@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+.allpix img {
+	
+	 height: 240px;
+    width: auto;
+	
+	
+}
+
+.pix img {
+	padding-left: 35%;
+	
+}
+#firstrowone {
+	position: relative;
+	top: 15px;
+}
+.secondrowsize img {
+	height: 180px;
+	width: auto;
+}
+.fourthrowsize img {
+	height: 180px;
+	width: auto;
+}
+
+.icons img {
+
+		height: auto;
+	width: 150px;
+	
+	display: block;
+}
+#secondrowfirst {
+	padding-left: 65.6%;
+}
+#secondrowtwo {
+	position: relative;
+   right: 91px;
+}
+#secondrowthree {
+	position: relative;
+	left: -217px
+}
+.rowthreeone,
+.rowthreetwo,
+.rowthreethree,
+.rowthreefour,
+.rowthreefive {
+    display: inline-block;
+}
+#rowthreeimg img {
+	position: relative;
+	width: 200px;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+#rowthreethreepic {
+	position: relative;
+	left: 30px;
+}
+
+/* Setting width, height, padding and margin */
+
+
+#rowthreecontainer {
+ width: 100%;
+ text-align: center;
+}
+
+
+#fourthrowfirst {
+	padding-left: 68%;
+}
+#fourthrowtwo {
+	position: relative;
+   right: 33px;
+}
+#fourthrowthree {
+	position: relative;
+	left: -186px
+}		
+#fifthrowone {
+	position: relative;
+	padding-left: 35%;
+	bottom: 15px;
+}

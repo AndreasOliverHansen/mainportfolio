@@ -10,8 +10,9 @@ body {
 
 }
 .container {
-	background: -webkit-linear-gradient(to top right,#3AAFA9, #FEFFFF);
-	background: linear-gradient(to top right, #46344E, #46344E, #5A5560);  
+	/*background: -webkit-linear-gradient(to top right,#3AAFA9, #FEFFFF);
+	background: linear-gradient(to top right, #46344E, #46344E, #5A5560);  /**/
+	background: linear-gradient(to top right, #F6C026, #872642, #A0D3F9);
 	border: solid black; 
 	
 }
