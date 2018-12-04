@@ -23,9 +23,7 @@ body {
 	padding: 2%;
 	
 }
-.logo img {
-	
-}
+
 #myprojects {
 float: right;
 	padding: 2% 4%;
@@ -47,9 +45,6 @@ text-align: center;
 	text-align: center;
 	color: white;
 }
-.about {
-	
-}
 
 .lefttext {
 	align-content: center;
@@ -66,9 +61,7 @@ text-align: center;
 		line-height: 1.5em;
 }
 	
-.footer img {
 
-}
 .icons {
 	padding-top: 3%;
 }
@@ -80,9 +73,7 @@ text-align: center;
 	display: block;
 }
 
-.facebook {
 
-}
 #facebookpic {
 	margin-left: 50%;
 }
@@ -91,10 +82,7 @@ text-align: center;
 	color: #FAED26;
 	font-size: 1.3em;
 }
-.github {
-  
-	
-}
+
 #githubpic {
 	margin-left: 28%;
  
@@ -106,12 +94,6 @@ text-align: center;
 	font-size: 1.3em;
 }
 
-.twitter {
-
-}
-#twitterpic {
-	
-}
 .twittertext {
 	color: #FAED26;
 	font-size: 1.3em;

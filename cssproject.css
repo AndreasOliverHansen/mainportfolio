@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	background: linear-gradient(to top right, #F6C026, #872642, #A0D3F9);
+}
+
+#o {
+	width: 50px;
+	height: auto;
+}
+
+/*row one*/
+
+.rowoneone {
+    display: inline-block;
+}
+#rowoneimg img {
+	position: relative;
+	width: 250px;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 18px;
+
+}
+#rowonethreepic {
+	position: relative;
+	left: 32px;
+}
+
+
+#rowonecontainer {
+ width: 100%;
+ text-align: center;
+}
+
+
+
+/*row two*/
+
+.rowtwoone,
+.rowtwotwo,
+.rowtwothree,
+.rowtwofour,
+.rowtwofive {
+    display: inline-block;
+}
+#rowtwoimg img {
+	position: relative;
+	width: 200px;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+#rowtwothreepic {
+	position: relative;
+	left: 32px;
+}
+
+
+#rowtwocontainer {
+ width: 100%;
+ text-align: center;
+}
+
+
+/*row three*/
+
+.rowthreeone,
+.rowthreetwo,
+.rowthreethree,
+.rowthreefour,
+.rowthreefive {
+    display: inline-block;
+}
+#rowthreeimg img {
+	position: relative;
+	width: 200px;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+#rowthreethreepic {
+	position: relative;
+	left: 32px;
+}
+
+
+#rowthreecontainer {
+ width: 100%;
+ text-align: center;
+}
+
+/*row four*/
+
+.rowfourone,
+.rowfourtwo,
+.rowfourthree {
+    display: inline-block;
+}
+#rowfourimg img {
+	position: relative;
+	width: 200px;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+#rowfourthreepic {
+	position: relative;
+	left: 32px;
+}
+
+
+#rowfourcontainer {
+ width: 100%;
+ text-align: center;
+}
+
+.rowfiveone {
+    display: inline-block;
+}
+#rowfiveimg img {
+	position: relative;
+	width: 200px;
+	height: 100%;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+#rowfivethreepic {
+	position: relative;
+	left: 32px;
+}
+
+
+#rowfivecontainer {
+ width: 100%;
+ text-align: center;
+}
