@@ -1,8 +1,39 @@
 @charset "utf-8";
 /* CSS Document */
 
-.container {
-	background: linear-gradient(to top right, #F6C026, #872642, #A0D3F9);
+
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+	
+.logo {
+	height: auto;
+	width: 100px;
+	padding: 2%;
+	
+}
+
+#homeknap {
+float: right;
+	padding: 2% 4%;
+	color: #FAED26;
+	
+}
+a {
+	color: #FAED26;
+}
+
+.name {
+text-align: center;
+	color: white;
+	font-size: 4.5em;
+	
+	
+}
+.title {
+	text-align: center;
+	color: white;
 }
 
 #o {
@@ -17,17 +48,12 @@
 }
 #rowoneimg img {
 	position: relative;
-	width: 250px;
-	height: 100%;
-	padding-left: 5px;
-	padding-right: 18px;
+	width: 300px;
+	height: auto;
+	padding-left: 0px;
+	padding-right: 0px;
 
 }
-#rowonethreepic {
-	position: relative;
-	left: 32px;
-}
-
 
 #rowonecontainer {
  width: 100%;
@@ -45,17 +71,14 @@
 .rowtwofive {
     display: inline-block;
 }
+
 #rowtwoimg img {
 	position: relative;
-	width: 200px;
-	height: 100%;
-	padding-left: 5px;
-	padding-right: 5px;
+	width: 300px;
+	height: auto;
+	padding-left: 0px;
+	padding-right: 0px;
 
-}
-#rowtwothreepic {
-	position: relative;
-	left: 32px;
 }
 
 
@@ -76,15 +99,11 @@
 }
 #rowthreeimg img {
 	position: relative;
-	width: 200px;
-	height: 100%;
-	padding-left: 5px;
-	padding-right: 5px;
+	width: 300px;
+	height: auto;
+	padding-left: 0px;
+	padding-right: 0px;
 
-}
-#rowthreethreepic {
-	position: relative;
-	left: 32px;
 }
 
 
@@ -102,15 +121,11 @@
 }
 #rowfourimg img {
 	position: relative;
-	width: 200px;
-	height: 100%;
-	padding-left: 5px;
-	padding-right: 5px;
+	width: 300px;
+	height: auto;
+	padding-left: 0px;
+	padding-right: 0px;
 
-}
-#rowfourthreepic {
-	position: relative;
-	left: 32px;
 }
 
 
@@ -119,20 +134,22 @@
  text-align: center;
 }
 
+/*row five*/
+
+
 .rowfiveone {
     display: inline-block;
 }
+
+
+
 #rowfiveimg img {
 	position: relative;
-	width: 200px;
-	height: 100%;
-	padding-left: 5px;
-	padding-right: 5px;
+	width: 300px;
+	height: auto;
+	padding-left: 0px;
+	padding-right: 0px;
 
-}
-#rowfivethreepic {
-	position: relative;
-	left: 32px;
 }
 
 
