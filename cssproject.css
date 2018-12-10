@@ -47,7 +47,6 @@ text-align: center;
 .rowoneone {
     display: inline-block;
 	position: relative;
-	width: 50%;
 	
 }
 #rowoneimg img {
@@ -159,4 +158,10 @@ text-align: center;
 #rowfivecontainer {
  width: 100%;
  text-align: center;
+}
+
+
+.emailfooter {
+	text-align: center;
+	color: white;
 }

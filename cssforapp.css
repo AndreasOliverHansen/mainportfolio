@@ -48,10 +48,10 @@ text-align: center;
     display: inline-block;
 	
 }
-#bigpicimg img {
+.bigpicimg img {
 	display:block;
 	position: relative;
-	width: 250px;
+	width: 100%;
 	height: auto;
 	padding-left: 0px;
 	padding-right: 0px;
@@ -59,11 +59,12 @@ text-align: center;
 
 }
 
-#bigpiccontainer {
+.bigpiccontainer {
  width: 100%;
  text-align: center;
 	
 }
+
 
 .backgroundfortext {
 	/*background: #6890FF;*/
@@ -80,8 +81,6 @@ text-align: center;
 	padding-right: 25%;
 }
 .post-container {
-     
-   
     overflow: auto;
 	
 }
@@ -110,7 +109,7 @@ text-align: center;
 }
 
 .textpic {
-	width: 250px;
+	width: 60%;
 	height: auto;
 	
 
