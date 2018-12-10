@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+
+	
+.logo {
+	height: auto;
+	width: 9em;
+	padding: 2%;
+	
+}
+
+#myprojects {
+float: right;
+	padding: 2% 4%;
+	color: #FAED26;
+	
+}
+a {
+	color: #FAED26;
+}
+.nameandtitle {
+	
+}
+
+.name {
+text-align: center;
+	color: white;
+	font-size: 4.5em;
+
+	
+	
+}
+.title {
+	text-align: center;
+	color: white;
+	font-size: 2.5em;
+	
+ }
+
+.bigpicone {
+    display: inline-block;
+	
+}
+#bigpicimg img {
+	display:block;
+	position: relative;
+	width: 250px;
+	height: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	border: solid white 2px;
+
+}
+
+#bigpiccontainer {
+ width: 100%;
+ text-align: center;
+	
+}
+
+.backgroundfortext {
+	/*background: #6890FF;*/
+	background:#4A598A;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.backgroundfortexttwo {
+	
+	border-top: 1px solid black;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.post-container {
+     
+   
+    overflow: auto;
+	
+}
+.post-thumb {
+    float: right
+}
+.post-thumb img {
+    display: block
+}
+.post-content {
+    
+	
+}
+.post-title {
+    font-weight: bold;
+    font-size: 200%;
+    padding: 2px;
+   
+	text-align: center;
+	
+}
+
+.post-thumbtwo {
+    float: left;
+	padding-right: 5%;
+}
+
+.textpic {
+	width: 250px;
+	height: auto;
+	
+
+}
+.textpictwo {
+	width: 250px;
+	height: auto;
+	float: left;
+	padding-right: 5%;
+}
+.ptext {
+	font-size: 1.3em;
+	line-height: 1.5em;
+}
+
+.flowchart {
+	width: 300px;
+	height: auto;
+	border: solid black;
+	
+}
+
+.emailfooter {
+	text-align: center;
+	color: white;
+}

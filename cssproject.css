@@ -18,6 +18,7 @@
 float: right;
 	padding: 2% 4%;
 	color: #FAED26;
+	font-size: 1.5em;
 	
 }
 a {
@@ -45,6 +46,9 @@ text-align: center;
 
 .rowoneone {
     display: inline-block;
+	position: relative;
+	width: 50%;
+	
 }
 #rowoneimg img {
 	position: relative;
@@ -59,9 +63,9 @@ text-align: center;
  width: 100%;
  text-align: center;
 }
-
-
-
+.app:hover .appoverlay {
+	
+}
 /*row two*/
 
 .rowtwoone,
@@ -105,7 +109,6 @@ text-align: center;
 	padding-right: 0px;
 
 }
-
 
 #rowthreecontainer {
  width: 100%;
