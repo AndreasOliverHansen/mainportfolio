@@ -125,14 +125,32 @@ text-align: center;
 	line-height: 1.5em;
 }
 
-.flowchart {
-	width: 300px;
-	height: auto;
-	border: solid black;
-	
-}
 
 .emailfooter {
 	text-align: center;
 	color: white;
+}
+@media only screen and (max-width: 1000px){
+	.frontpic {
+		margin-left: 0%;
+	}
+	.backgroundfortext {
+	/*background: #6890FF;*/
+	background:#4A598A;
+	position: relative;
+	padding-left: 5%;
+	padding-right: 5%;
+		margin-right: 4%;
+}
+	.ptext {
+		padding: 0%;
+	}
+	.post-thumb img {
+		display: none;
+	}
+	.backgroundfortexttwo {
+		padding-left: 5%;
+	padding-right: 5%;
+	}
+	
 }

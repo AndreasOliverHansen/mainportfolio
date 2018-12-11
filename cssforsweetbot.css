@@ -58,7 +58,7 @@ text-align: center;
 
 }
 .hotbot {
-		width: 100%;
+		width: 400px;
 	height: auto;
 	padding-bottom: 5%;
 }
@@ -141,4 +141,27 @@ text-align: center;
 .emailfooter {
 	text-align: center;
 	color: white;
+}
+@media only screen and (max-width: 1000px) {
+.backgroundfortext {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+	.logo {
+		width: 75px;
+		height: auto;
+	}
+	#myprojects {
+		padding-right: 10%;
+	}
+	.backgroundfortexttwo {
+		padding-left: 3%;
+	padding-right: 3%;
+	}
+	.name {
+		font-size: 1.6em;
+	}
+	.title {
+		font-size: 1.5em;
+	}
 }

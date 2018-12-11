@@ -165,3 +165,23 @@ text-align: center;
 	text-align: center;
 	color: white;
 }
+
+@media only screen and (max-width: 1000px) {
+	.name {
+		font-size: 2.5em;
+	}
+	#o, img {
+		width: 30px;
+			height: auto;
+	}
+	.title {
+		font-size: 1.5em;
+	}
+	.logo {
+		width: 75px;
+		height: auto;
+	}
+	#myprojects {
+		padding-right: 10%;
+	} 
+}
