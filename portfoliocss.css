@@ -2,7 +2,6 @@
 /* CSS Document */
 
 
-
 * {
 	font-family: 'Lato', sans-serif;
 }
@@ -49,41 +48,69 @@ text-align: center;
     display: inline-block;
 	
 }
-#bigpicimg img {
+.bigpicimg img {
 	display:block;
 	position: relative;
-
+	width: 100%;
+	height: auto;
 	padding-left: 0px;
 	padding-right: 0px;
+	border: solid white 2px;
 
 }
 
-
-#bigpiccontainer {
+.bigpiccontainer {
  width: 100%;
  text-align: center;
 	
 }
 
+
 .backgroundfortext {
 	/*background: #6890FF;*/
-	background:#3D6BB4;
+	background:#4A598A;
 	position: relative;
 	padding-left: 25%;
 	padding-right: 25%;
 }
 .backgroundfortexttwo {
-
+	
+	border-top: 1px solid black;
 	position: relative;
 	padding-left: 25%;
 	padding-right: 25%;
+}
+.post-container {
+    overflow: auto;
+	
+}
+.post-thumb {
+    float: right
+}
+.post-thumb img {
+    display: block
+}
+.post-content {
+    
+	
+}
+.post-title {
+    font-weight: bold;
+    font-size: 200%;
+    padding: 2px;
+   
+	text-align: center;
+	
+}
+
+.post-thumbtwo {
+    float: left;
+	padding-right: 5%;
 }
 
 .textpic {
 	width: 60%;
 	height: auto;
-	border: 2px solid black;
-	float: right;
 	
 
 }
@@ -108,28 +135,4 @@ text-align: center;
 .emailfooter {
 	text-align: center;
 	color: white;
-}
-
-.abe {
-	width: 100%;
-	height: auto;
-}
-.tiger {
-	width: 100%;
-	height: auto;
-}
-.blackabe {
-	width: 100%;
-	height: auto;
-}
-.wolf {
-	width: 100%;
-	height: auto;
-}
-.bro {
-	width: 100%;
-	height: auto;
-}
-.backgroundforpix {
-	background:#464646;
 }
