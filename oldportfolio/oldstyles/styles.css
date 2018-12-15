@@ -1,0 +1,243 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+body {
+	font-family: 'Roboto', sans-serif; 
+}
+.homename {
+	color: white;
+	text-align:center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.indexcontent {
+	
+}
+/*pic of my face on home*/ 
+.face img {
+	width: 15%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	margin-bottom: auto;
+	border: solid black;
+	border-radius: 100%;
+	z-index: 3;
+	
+}
+/* div of small icons on home under face*/
+.smallicons {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.smallicons img {
+	width: 4%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	margin-bottom: auto;
+	position: relative;	
+	border: solid black;
+	border-radius: 100%;
+}
+.arrowdownone a:hover img {
+	background-color: white;
+}
+/*facebook logo*/
+#facebook {
+	width: 6%;
+}
+/*background on home page*/
+.firstbackground {
+	  background-image: url(../oldimages/../oldimages/madamonkeybackground.png);
+	background-size: cover;
+	
+}
+/*background on tiger page*/
+.secondbackground {
+	background-image: url(../oldimages/tigerbackground.png);
+	background-size: cover; }
+/*background on projects page*/
+.thirdbackground {
+	background-image: url(../oldimages/../oldimages/backstagepicbackground.png); 
+  background-size: cover; }
+/*background on contact page*/
+.fourthbackground {
+	background-image: url(../oldimages/færdigbrobackground.png);
+	 background-size: cover; 
+}
+
+.interest {
+	
+color: white;
+	margin-left: auto;
+	margin-right: 5%;
+	position: relative;
+	display: block;
+	margin-top: 5%;
+	font-size: 150%;
+	text-align: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+/*hele diven med både mine film og jobs*/
+div.text {
+color: white;
+	line-height: 300%;
+	margin-top: 5%;
+	text-align: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-size: 110%;
+}
+/*mine jobs paragraf text højre*/
+.text .jobs {
+	float: right;
+	font-size: 100%;
+	
+}
+/*mine film paragraf text venstre*/
+.text .filmcv {
+	float:left;
+	margin-left: 2%;
+	margin-top: 3%;
+	border-color: solid black;
+}
+.arrowdowntwo {
+	width: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30%;
+display: block;
+}
+.arrowdowntwo img {
+	margin-left: 30%;
+	margin-right: auto;
+	align-content: center;
+	width: 55%;
+	height: auto;
+	border: solid black;
+	border-radius: 100%;
+}
+.arrowdowntwo a:hover img {
+	background-color: white;
+	
+}
+
+.arrowdownthree img {
+margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	width: 10%;
+	height: auto;
+	border: solid black;
+	margin-top: 12%;
+	border-radius: 100%;
+}
+.arrowdownthree a:hover img {
+	background-color: white;
+}
+/*alt text i project*/
+div.projectcontent {
+color: white;
+	line-height: 300%;
+	margin-top: 5%;
+	text-align: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-size: 110%;
+	width: 100%;
+	margin-left: auto;;
+	margin-right: auto;
+	
+}
+h1 {
+	
+	font-size: 350%;
+}
+.projecttext {
+
+	text-align: center;
+	width: 46%;
+	font-size: 130%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.projectlink {
+	font-size: 100%;
+	width: 35%;
+	color:white;
+}
+.sideprojecttext {
+	text-align: center;
+}
+.contactoverskrift {
+	color: white;
+	line-height: 100%;
+	margin-top: 1%;
+	text-align: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-size: 400%
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: orange;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: darkorange;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+	width: 50%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+/*TOP MENUEN*/
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+	width: 20%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: darkorange;
+    color: black;
+}

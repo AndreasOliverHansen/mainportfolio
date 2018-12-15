@@ -1,0 +1,134 @@
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+
+	
+.logo {
+	height: auto;
+	width: 9em;
+	padding: 2%;
+	
+}
+
+#myprojects {
+float: right;
+	padding: 2% 4%;
+	color: #FAED26;
+	font-size: 1.5em;
+	
+}
+a {
+	color: #FAED26;
+}
+.nameandtitle {
+	
+}
+
+.name {
+text-align: center;
+	color: white;
+	font-size: 3em;
+
+	
+	
+}
+.title {
+	text-align: center;
+	color: white;
+	font-size: 2em;
+	
+ }
+
+
+.backgroundfortext {
+	/*background: #6890FF;*/
+	background:#4A598A;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.backgroundfortexttwo {
+	
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+
+.textpic {
+	width: 60%;
+	height: auto;
+	
+
+}
+.textpictwo {
+	width: 250px;
+	height: auto;
+	float: left;
+	padding-right: 5%;
+}
+.ptext {
+	font-size: 1.3em;
+	line-height: 1.5em;
+}
+.leftfilm {
+	padding-left: 15%;
+}
+
+.emailfooter {
+
+	text-align: center;
+	color: white;
+}
+.backgroundfortext {
+	background:#D84A4D;
+ }
+.post-title {
+	font-size: 2em;
+	text-align: center;
+}
+iframe {
+	border: none;
+}
+.lefttext {
+	padding-left: 40%;
+}
+
+@media only screen and (max-width: 890px) {
+	
+	.logo {
+		width: 75px;
+		height: auto;
+	}
+	#myprojects {
+		padding-right: 10%;
+	}
+	.name {
+		font-size: 2em;
+	}
+	.title {
+		font-size: 1.5em;
+	}
+.backgroundfortext {
+	padding-left: 3%;
+	padding-right: 3%;
+	
+}
+	iframe{
+		
+		width: 300px;
+		height: auto;
+	
+		border: none;
+
+	}
+	.ptext {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	.leftfilm {
+		padding-left: 0%;
+	}
+}

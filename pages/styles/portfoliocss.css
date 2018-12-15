@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+
+	
+.logo {
+	height: auto;
+	width: 9em;
+	padding: 2%;
+	
+}
+
+#myprojects {
+float: right;
+	padding: 2% 4%;
+	color: #FAED26;
+	font-size: 1.5em;
+	
+}
+a {
+	color: #FAED26;
+}
+.nameandtitle {
+	
+}
+
+.name {
+	text-align: center;
+	color: white;
+	font-size: 3em;	
+}
+.title {
+	text-align: center;
+	color: white;
+	font-size: 2em;
+ }
+.bigpicone {
+    display: inline-block;
+}
+.frontpic {
+	width: 50%;
+	height: auto;
+	border: white 2px solid;
+}
+.bigpiccontainer {
+ width: 100%;
+ text-align: center;
+	
+}
+.texttitleone {
+	text-align: center;
+	font-size: 2em;
+}
+.texttitletwo {
+	text-align: center;
+	font-size: 2em;
+}
+.backgroundfortext {
+	/*background: #6890FF;*/
+	background:#647a2f;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.backgroundfortexttwo {
+	border-top: 1px solid black;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.textpicone {
+	width: 100%;
+	height: auto;
+	padding-top: 6%;
+	padding-right: 5%;
+}
+.textpictwo {
+	width: 50%;
+	height: auto;
+	padding-right: 5%;
+	padding-left: 29%;
+	
+}
+.ptext {
+	font-size: 1.3em;
+	line-height: 1.5em;
+}
+.erhvervtext {
+	padding-left: 10%;
+}
+.emailfooter {
+	text-align: center;
+	color: white;
+}
+.topbutton {
+	text-align: center;
+	padding-left: 48%;
+	font-size: 1.4em;
+	color: white;
+}
+@media only screen and (max-width: 1000px){
+		.name {
+		font-size: 2em;
+	}
+	.title {
+		font-size: 2em;
+	}
+	.logo {
+		width: 75px;
+		height: auto;
+	}
+	#myprojects {
+		padding-right: 10%;
+	}
+	.frontpic {
+		margin-left: 0%;
+		width: 85%;
+		height: auto;
+	}
+	.backgroundfortext {
+	/*background: #6890FF;*/
+	
+	position: relative;
+	padding-left: 5%;
+	padding-right: 5%;
+		margin-right: 4%;
+}
+	.ptext {
+		padding: 0%;
+	}
+	.backgroundfortexttwo {
+		padding-left: 5%;
+	padding-right: 5%;
+	}
+
+}

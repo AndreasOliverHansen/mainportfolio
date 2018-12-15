@@ -1,0 +1,188 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+
+	
+.logo {
+	height: auto;
+	width: 9em;
+	padding: 2%;
+	
+}
+
+#myprojects {
+float: right;
+	padding: 2% 4%;
+	color: #FAED26;
+	font-size: 1.5em;
+	
+}
+a {
+	color: #FAED26;
+}
+.nameandtitle {
+	
+}
+
+.name {
+text-align: center;
+	color: white;
+	font-size: 3em;
+
+	
+	
+}
+.title {
+	text-align: center;
+	color: white;
+	font-size: 2em;
+	
+ }
+
+.bigpicone {
+    display: inline-block;
+	
+}
+.frontpic {
+	width: 50%;
+	height: auto;
+	border: white 2px solid;
+}
+
+.bigpiccontainer {
+ width: 100%;
+ text-align: center;
+	
+}
+
+.texttitleone {
+	text-align: center;
+	font-size: 2em;
+	padding-top: 3%;	
+}
+.texttitletwo {
+		text-align: center;
+	font-size: 2em;
+}
+.backgroundfortextstart {
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.backgroundfortext {
+	/*background: #6890FF;*/
+	background:#4A598A;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.backgroundfortexttwo {
+	background:#3D6BB4;
+	border-top: 1px solid black;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.backgroundfortextthree {
+	background:#647a2f;
+	border-top: 1px solid black;
+	position: relative;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+
+.textpicone {
+	width: 40%;
+	height: auto;
+	padding-left: 25%;
+	border: 1px solid white;
+	
+
+}
+.textpictwo {
+	width: 100%;
+	height: auto;
+	padding-right: 5%;
+	padding-top: 7%;
+	
+	
+}
+.textpicthree {
+	width: 50%;
+	height: auto;
+	padding-right: 5%;
+	padding-top: 14%;
+	padding-left: 20%;
+	
+	
+}
+.ptext {
+	font-size: 1.3em;
+	line-height: 1.5em;
+}
+.topbutton {
+	text-align: center;
+	padding-left: 47%;
+	font-size: 1.4em;
+	color: white;
+}
+
+.emailfooter {
+	text-align: center;
+	color: white;
+}
+@media only screen and (max-width: 1000px){
+		.name {
+		font-size: 2em;
+	}
+	.title {
+		font-size: 2em;
+	}
+	.logo {
+		width: 75px;
+		height: auto;
+	}
+	#myprojects {
+		padding-right: 10%;
+	}
+	.frontpic {
+		margin-left: 0%;
+	}
+	.backgroundfortext {
+	/*background: #6890FF;*/
+	background:#4A598A;
+	position: relative;
+	padding-left: 5%;
+	padding-right: 5%;
+		margin-right: 4%;
+}
+	.ptext {
+		padding: 0%;
+	}
+	.post-thumb img {
+		display: none;
+	}
+		.backgroundfortextstart {
+		padding-left: 5%;
+	padding-right: 5%;
+	}
+	.backgroundfortext {
+		padding-left: 5%;
+	padding-right: 5%;
+	}
+	.backgroundfortexttwo {
+		padding-left: 5%;
+	padding-right: 5%;
+	}
+	.backgroundfortextthree {
+		padding-left: 5%;
+	padding-right: 5%;
+	}
+	
+}
