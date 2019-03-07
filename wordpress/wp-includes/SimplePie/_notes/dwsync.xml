@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Author.php" server="mozel.org" local="131964540917428570" remote="131963514000000000" Dst="1" />
+<file name="Cache.php" server="mozel.org" local="131964540920755081" remote="131963514000000000" Dst="1" />
+<file name="Caption.php" server="mozel.org" local="131964540921514300" remote="131963514000000000" Dst="1" />
+<file name="Category.php" server="mozel.org" local="131964540921694116" remote="131963514000000000" Dst="1" />
+<file name="Copyright.php" server="mozel.org" local="131964540923821940" remote="131963514000000000" Dst="1" />
+<file name="Core.php" server="mozel.org" local="131964540924366396" remote="131963514000000000" Dst="1" />
+<file name="Credit.php" server="mozel.org" local="131964540924566187" remote="131963514000000000" Dst="1" />
+<file name="Enclosure.php" server="mozel.org" local="131964540926708988" remote="131963514000000000" Dst="1" />
+<file name="Exception.php" server="mozel.org" local="131964540927523155" remote="131963514000000000" Dst="1" />
+<file name="File.php" server="mozel.org" local="131964540927768161" remote="131963514000000000" Dst="1" />
+<file name="gzdecode.php" server="mozel.org" local="131964540928736917" remote="131963514000000000" Dst="1" />
+<file name="IRI.php" server="mozel.org" local="131964540930605145" remote="131963514000000000" Dst="1" />
+<file name="Item.php" server="mozel.org" local="131964540931074695" remote="131963514000000000" Dst="1" />
+<file name="Locator.php" server="mozel.org" local="131964540931419174" remote="131963514000000000" Dst="1" />
+<file name="Misc.php" server="mozel.org" local="131964540931738852" remote="131963514000000000" Dst="1" />
+<file name="Parser.php" server="mozel.org" local="131964540933122430" remote="131963514000000000" Dst="1" />
+<file name="Rating.php" server="mozel.org" local="131964540933731807" remote="131963514000000000" Dst="1" />
+<file name="Registry.php" server="mozel.org" local="131964540933941595" remote="131963514000000000" Dst="1" />
+<file name="Restriction.php" server="mozel.org" local="131964540934651038" remote="131963514000000000" Dst="1" />
+<file name="Sanitize.php" server="mozel.org" local="131964540934875642" remote="131963514000000000" Dst="1" />
+<file name="Source.php" server="mozel.org" local="131964540935909585" remote="131963514000000000" Dst="1" />
+</dwsync>

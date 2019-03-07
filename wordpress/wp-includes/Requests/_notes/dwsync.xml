@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Auth.php" server="mozel.org" local="131964540867659552" remote="131963514000000000" Dst="1" />
+<file name="Cookie.php" server="mozel.org" local="131964540869217930" remote="131963514000000000" Dst="1" />
+<file name="Exception.php" server="mozel.org" local="131964540888647918" remote="131963514000000000" Dst="1" />
+<file name="Hooker.php" server="mozel.org" local="131964540888812744" remote="131963514000000000" Dst="1" />
+<file name="Hooks.php" server="mozel.org" local="131964540889357188" remote="131963514000000000" Dst="1" />
+<file name="IDNAEncoder.php" server="mozel.org" local="131964540889561973" remote="131963514000000000" Dst="1" />
+<file name="IPv6.php" server="mozel.org" local="131964540890266273" remote="131963514000000000" Dst="1" />
+<file name="IRI.php" server="mozel.org" local="131964540890585929" remote="131963514000000000" Dst="1" />
+<file name="Proxy.php" server="mozel.org" local="131964540891944544" remote="131963514000000000" Dst="1" />
+<file name="Response.php" server="mozel.org" local="131964540893552895" remote="131963514000000000" Dst="1" />
+<file name="Session.php" server="mozel.org" local="131964540894227205" remote="131963514000000000" Dst="1" />
+<file name="SSL.php" server="mozel.org" local="131964540894402031" remote="131963514000000000" Dst="1" />
+<file name="Transport.php" server="mozel.org" local="131964540896834600" remote="131963514000000000" Dst="1" />
+</dwsync>

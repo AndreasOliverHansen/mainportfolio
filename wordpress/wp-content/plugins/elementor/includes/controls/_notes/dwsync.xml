@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="animation.php" server="mozel.org" local="131964539916028809" remote="131963525400000000" Dst="1" />
+<file name="base-data.php" server="mozel.org" local="131964539916298536" remote="131963525400000000" Dst="1" />
+<file name="base-multiple.php" server="mozel.org" local="131964539917037780" remote="131963525400000000" Dst="1" />
+<file name="base.php" server="mozel.org" local="131964539917242573" remote="131963525400000000" Dst="1" />
+<file name="base-ui.php" server="mozel.org" local="131964539917846952" remote="131963525400000000" Dst="1" />
+<file name="base-units.php" server="mozel.org" local="131964539918041753" remote="131963525400000000" Dst="1" />
+<file name="box-shadow.php" server="mozel.org" local="131964539919150619" remote="131963525400000000" Dst="1" />
+<file name="button.php" server="mozel.org" local="131964539919330433" remote="131963525400000000" Dst="1" />
+<file name="choose.php" server="mozel.org" local="131964539920024723" remote="131963525400000000" Dst="1" />
+<file name="code.php" server="mozel.org" local="131964539920214531" remote="131963525400000000" Dst="1" />
+<file name="color.php" server="mozel.org" local="131964539921058673" remote="131963525400000000" Dst="1" />
+<file name="date-time.php" server="mozel.org" local="131964539921258459" remote="131963525400000000" Dst="1" />
+<file name="dimensions.php" server="mozel.org" local="131964539922112585" remote="131963525400000000" Dst="1" />
+<file name="divider.php" server="mozel.org" local="131964539922307389" remote="131963525400000000" Dst="1" />
+<file name="font.php" server="mozel.org" local="131964539922911771" remote="131963525400000000" Dst="1" />
+<file name="gallery.php" server="mozel.org" local="131964539923705954" remote="131963525400000000" Dst="1" />
+<file name="heading.php" server="mozel.org" local="131964539928316247" remote="131963525400000000" Dst="1" />
+<file name="hidden.php" server="mozel.org" local="131964539928481083" remote="131963525400000000" Dst="1" />
+<file name="hover-animation.php" server="mozel.org" local="131964539929335202" remote="131963525400000000" Dst="1" />
+<file name="icon.php" server="mozel.org" local="131964539929769935" remote="131963525400000000" Dst="1" />
+<file name="image-dimensions.php" server="mozel.org" local="131964539930389122" remote="131963525400000000" Dst="1" />
+<file name="media.php" server="mozel.org" local="131964539930693816" remote="131963525400000000" Dst="1" />
+<file name="number.php" server="mozel.org" local="131964539931213279" remote="131963525400000000" Dst="1" />
+<file name="order.php" server="mozel.org" local="131964539931383111" remote="131963525400000000" Dst="1" />
+<file name="popover-toggle.php" server="mozel.org" local="131964539931842638" remote="131963525400000000" Dst="1" />
+<file name="raw-html.php" server="mozel.org" local="131964539932022454" remote="131963525400000000" Dst="1" />
+<file name="repeater.php" server="mozel.org" local="131964539932671801" remote="131963525400000000" Dst="1" />
+<file name="section.php" server="mozel.org" local="131964539932851614" remote="131963525400000000" Dst="1" />
+<file name="select2.php" server="mozel.org" local="131964539933431032" remote="131963525400000000" Dst="1" />
+<file name="slider.php" server="mozel.org" local="131964539934220353" remote="131963525400000000" Dst="1" />
+<file name="select.php" server="mozel.org" local="131964539934400149" remote="131963525400000000" Dst="1" />
+<file name="structure.php" server="mozel.org" local="131964539935164239" remote="131963525400000000" Dst="1" />
+<file name="switcher.php" server="mozel.org" local="131964539935364038" remote="131963525400000000" Dst="1" />
+<file name="tab.php" server="mozel.org" local="131964539935918468" remote="131963525400000000" Dst="1" />
+<file name="tabs.php" server="mozel.org" local="131964539936113394" remote="131963525400000000" Dst="1" />
+<file name="textarea.php" server="mozel.org" local="131964539936757715" remote="131963525400000000" Dst="1" />
+<file name="text.php" server="mozel.org" local="131964539936942421" remote="131963525400000000" Dst="1" />
+<file name="text-shadow.php" server="mozel.org" local="131964539937676685" remote="131963525400000000" Dst="1" />
+<file name="url.php" server="mozel.org" local="131964539937991361" remote="131963525400000000" Dst="1" />
+<file name="wysiwyg.php" server="mozel.org" local="131964539938490966" remote="131963525400000000" Dst="1" />
+<file name="wp-widget.php" server="mozel.org" local="131964539938715667" remote="131963525400000000" Dst="1" />
+</dwsync>
