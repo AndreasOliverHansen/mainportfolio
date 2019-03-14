@@ -1,0 +1,109 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme example child theme.
+Author: Nick
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+
+/* Remove a header */
+.page-header {
+    position: relative;
+    background-color: #f5f5f5;
+    padding: 34px 0;
+    display: none;
+}
+
+/*Remove something on single product sites*/
+#footer-bottom #copyright {
+    display: none;
+}
+
+/*hide the breadcrumbs and something else on single products sites*/
+.woocommerce .woocommerce-breadcrumb, .posted_in {
+	  visibility: hidden;
+}
+
+/*logo margin*/
+#site-header #site-logo #site-logo-inner a img, #site-header.center-header #site-navigation-wrap .middle-site-logo a img {
+    max-height: 200px;
+    margin-left: 40%;
+}
+
+/*change the thing beside the heading in the footer*/
+.widget-title {
+    color: #333;
+    border-color: #FFFF;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/*Change the underlines in the footer*/
+.site-footer .widget_nav_menu li, .widget_nav_menu li:first-child {
+    width: 50%;
+}
+
+/*change text color on prodcut pages*/
+.woocommerce div.product {
+    margin-bottom: 0;
+    position: relative;
+    color: #ae4848;
+}
+
+/* change color of headline on product pages */ 
+.woocommerce div.product .product_title {
+    clear: none;
+    margin-top: 0;
+    padding: 0;
+    color: #683400;
+}
+
+/*change 'description' font on single product pages*/
+#tab-description h2 {
+	font-weight: 550;
+	font-size: 1.4em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin: 0 0 20px;
+    color: #333;
+    line-height: 1.4;
+    color: #683400;
+}
+
+/*Romove the cart in the top navigation on tablet*/
+.oceanwp-mobile-menu-icon a:first-child {
+    display: none;
+}
+
+/* spacing between images on product sides */
+.woocommerce div.product div.images .flex-control-thumbs li img.flex-active, .woocommerce div.product div.images .flex-control-thumbs li img:hover {
+    opacity: 1;
+    margin-top: 5%;
+}
+
+.woocommerce div.product div.images .flex-control-thumbs li img {
+    cursor: pointer;
+    opacity: .5;
+    margin: 0;
+    margin-top: 5%;
+}
+
+/* Line in search drop down */
+#searchform-dropdown {
+	border-top: 3px solid #ae4848;
+}
+
+/* change styling on read more boxes on product sides */
+.woocommerce ul.products li.product .button {
+    margin-top: 1em;
+    color: white;
+    background-color: #ae4848;
+    border: 0.5px solid #683400;
+		border-radius: 10px;
+}
